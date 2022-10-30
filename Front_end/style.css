@@ -1,0 +1,12 @@
+
+        .divider {
+            height: 2px;
+            background-color: rgba(116, 40, 40, 0.363);
+            border: 2px;
+        }
+        .text-justify {
+            text-align: justify;
+        }
+        body {
+            background-color: aqua;
+        }
